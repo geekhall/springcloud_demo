@@ -1,0 +1,32 @@
+server:
+  port: 9527
+
+
+spring:
+  application:
+    name: springcloud-zuul
+
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://eureka7001:7001/eureka,http://eureka7002:7002/eureka,http://eureka7003:7003/eureka # Eureka注册中心地址
+  instance:
+    instance-id: zuul9527.com
+    prefer-ip-address: true
+
+
+info:
+  app.name: geekhall-springcloud
+  company.name: www.geekhall.cn
+
+
+# 将
+# http://zuul9527.com:9527/springcloud-provider-dept/dept/get/3
+# 修改为
+# http://zuul9527.com:9527/mydept/dept/get/3
+zuul:
+  routes:
+    mydept.serveiceId: springcloud-provider-dept
+    mydept.path: /mydept/**
+
