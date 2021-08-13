@@ -31,7 +31,7 @@
         <entry file="file://$PROJECT_DIR$/springcloud-zuul-9527/src/main/java/cn/geekhall/ZuulApplication_9527.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="300">
-              <caret line="20" column="23" lean-forward="true" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
+              <caret line="20" column="23" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#441#442#0" expanded="true" />
@@ -45,7 +45,7 @@
         <entry file="file://$PROJECT_DIR$/springcloud-zuul-9527/src/main/resources/application.yml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="435">
-              <caret line="29" column="48" lean-forward="true" selection-start-line="29" selection-start-column="23" selection-end-line="29" selection-end-column="48" />
+              <caret line="29" column="48" selection-start-line="29" selection-start-column="23" selection-end-line="29" selection-end-column="48" />
             </state>
           </provider>
         </entry>
@@ -54,7 +54,7 @@
         <entry file="file://$PROJECT_DIR$/springcloud-zuul-9527/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="299">
-              <caret line="49" column="56" lean-forward="true" selection-start-line="49" selection-start-column="56" selection-end-line="49" selection-end-column="56" />
+              <caret line="49" column="56" selection-start-line="49" selection-start-column="56" selection-end-line="49" selection-end-column="56" />
             </state>
           </provider>
         </entry>
@@ -107,6 +107,9 @@
     <findStrings>
       <find>defaultZone</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -202,6 +205,7 @@
     <option name="width" value="1792" />
     <option name="height" value="1029" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <hideEmptyPackages ProjectPane="true" />
@@ -215,62 +219,6 @@
             <path>
               <item name="springcloud_demo" type="b2602c69:ProjectViewProjectNode" />
               <item name="springcloud_demo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud_demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud_demo" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud-api" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud_demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud_demo" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud-api" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud_demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud_demo" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud-api" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud_demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud_demo" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud-api" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud_demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud_demo" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud-api" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="geekhall" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud_demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud_demo" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud-api" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="geekhall" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud_demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud_demo" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud-consumer-dept-8050" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud_demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud_demo" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud-consumer-dept-8050" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="springcloud_demo" type="b2602c69:ProjectViewProjectNode" />
@@ -548,6 +496,7 @@
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/springcloud-provider-dept-hystrix-8031/src/main/java/cn/geekhall" />
@@ -670,16 +619,15 @@
       <workItem from="1628570488371" duration="15115000" />
       <workItem from="1628743303645" duration="12497000" />
       <workItem from="1628862503359" duration="1071000" />
-      <workItem from="1628864730183" duration="6350000" />
+      <workItem from="1628864730183" duration="6618000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35033000" />
+    <option name="totallyTimeSpent" value="35301000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1792" height="1029" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.7299035" visible="true" weight="0.2582857" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -1100,7 +1048,7 @@
     <entry file="file://$PROJECT_DIR$/springcloud-zuul-9527/src/main/java/cn/geekhall/ZuulApplication_9527.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
-          <caret line="20" column="23" lean-forward="true" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
+          <caret line="20" column="23" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#441#442#0" expanded="true" />
@@ -1112,14 +1060,14 @@
     <entry file="file://$PROJECT_DIR$/springcloud-zuul-9527/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="435">
-          <caret line="29" column="48" lean-forward="true" selection-start-line="29" selection-start-column="23" selection-end-line="29" selection-end-column="48" />
+          <caret line="29" column="48" selection-start-line="29" selection-start-column="23" selection-end-line="29" selection-end-column="48" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/springcloud-zuul-9527/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="299">
-          <caret line="49" column="56" lean-forward="true" selection-start-line="49" selection-start-column="56" selection-end-line="49" selection-end-column="56" />
+          <caret line="49" column="56" selection-start-line="49" selection-start-column="56" selection-end-line="49" selection-end-column="56" />
         </state>
       </provider>
     </entry>
