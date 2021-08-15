@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-config-server-3344" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-consumer-dept-8050" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-consumer-dept-feign-8051" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-consumer-hystrix-dashboard" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-eureka-7001" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-eureka-7002" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-eureka-7003" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-provider-dept-8031" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-provider-dept-8032" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-provider-dept-8033" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-provider-dept-hystrix-8031" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-zuul-9527" charset="UTF-8" />
+  </component>
+</project>

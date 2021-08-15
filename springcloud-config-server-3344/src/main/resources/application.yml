@@ -8,6 +8,8 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/geekhall/springcloud_demo.git
+          uri: https://gitee.com/sjdt/springcloud_demo.git
+#          uri: https://github.com/geekhall/springcloud_demo.git
+#          uri: https://gitee.com/sjdt/springcloud_demo/blob/main/springcloud-config-server-3344/src/main/resources/application.yml
 
 
