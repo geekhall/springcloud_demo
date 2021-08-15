@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="7fc0235f-6663-496c-b616-a7afe4240f6a" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/springcloud-config-server-3344/pom.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/springcloud-config-server-3344/springcloud-config-server-3344.iml" afterDir="false" />
@@ -11,6 +12,9 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
+=======
+    <list default="true" id="7fc0235f-6663-496c-b616-a7afe4240f6a" name="Default Changelist" comment="" />
+>>>>>>> da305ad59bbd666571f81ab66300d8231b8f2120
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/springcloud-api/target/" />
@@ -25,7 +29,10 @@
     <ignored path="$PROJECT_DIR$/springcloud-provider-dept-hystrix-8031/target/" />
     <ignored path="$PROJECT_DIR$/springcloud-consumer-hystrix-dashboard/target/" />
     <ignored path="$PROJECT_DIR$/springcloud-zuul-9527/target/" />
+<<<<<<< HEAD
     <ignored path="$PROJECT_DIR$/springcloud-config-server-3344/target/" />
+=======
+>>>>>>> da305ad59bbd666571f81ab66300d8231b8f2120
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,10 +47,19 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/springcloud-zuul-9527/src/main/java/cn/geekhall/ZuulApplication_9527.java">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="270">
               <caret line="20" column="23" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
               <folding>
                 <element signature="imports" expanded="true" />
+=======
+            <state relative-caret-position="300">
+              <caret line="20" column="23" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#441#442#0" expanded="true" />
+                <element signature="e#512#513#0" expanded="true" />
+>>>>>>> da305ad59bbd666571f81ab66300d8231b8f2120
               </folding>
             </state>
           </provider>
@@ -58,11 +74,19 @@
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/springcloud-zuul-9527/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="930">
               <caret line="62" column="10" selection-start-line="62" selection-start-column="10" selection-end-line="62" selection-end-column="10" />
+=======
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/springcloud-zuul-9527/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="299">
+              <caret line="49" column="56" selection-start-line="49" selection-start-column="56" selection-end-line="49" selection-end-column="56" />
+>>>>>>> da305ad59bbd666571f81ab66300d8231b8f2120
             </state>
           </provider>
         </entry>
@@ -70,6 +94,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/springcloud-eureka-7001/src/main/java/cn/geekhall/EurekaServer_7001.java">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="240">
               <caret line="18" selection-start-line="18" selection-end-line="18" />
               <folding>
@@ -111,6 +136,12 @@
                 <element signature="imports" expanded="true" />
                 <element signature="e#205#206#0" expanded="true" />
                 <element signature="e#274#275#0" expanded="true" />
+=======
+            <state relative-caret-position="195">
+              <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+>>>>>>> da305ad59bbd666571f81ab66300d8231b8f2120
               </folding>
             </state>
           </provider>
@@ -119,8 +150,13 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/springcloud-eureka-7002/src/main/java/cn/geekhall/EurekaServer_7002.java">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="270">
               <caret line="18" selection-start-line="18" selection-end-line="18" />
+=======
+            <state relative-caret-position="195">
+              <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+>>>>>>> da305ad59bbd666571f81ab66300d8231b8f2120
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#421#422#0" expanded="true" />
@@ -159,6 +195,12 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+<<<<<<< HEAD
+=======
+        <option value="$PROJECT_DIR$/springcloud-provider-dept-8031/src/main/java/cn/geekhall/service/DeptServiceImpl.java" />
+        <option value="$PROJECT_DIR$/springcloud-eureka-7001/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud-eureka-7001/src/main/java/cn/geekhall/EurekaServer_7001.java" />
+>>>>>>> da305ad59bbd666571f81ab66300d8231b8f2120
         <option value="$PROJECT_DIR$/springcloud-provider-dept-8031/src/main/java/cn/geekhall/controller/DeptController.java" />
         <option value="$PROJECT_DIR$/springcloud-eureka-7002/pom.xml" />
         <option value="$PROJECT_DIR$/springcloud-eureka-7003/pom.xml" />
@@ -207,9 +249,12 @@
         <option value="$PROJECT_DIR$/springcloud-zuul-9527/pom.xml" />
         <option value="$PROJECT_DIR$/springcloud-zuul-9527/src/main/java/cn/geekhall/ZuulApplication_9527.java" />
         <option value="$PROJECT_DIR$/springcloud-zuul-9527/src/main/resources/application.yml" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/springcloud-config-server-3344/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/springcloud-config-server-3344/pom.xml" />
         <option value="$PROJECT_DIR$/springcloud-config-server-3344/src/main/java/cn/geekhall/Config_Server_3344.java" />
+=======
+>>>>>>> da305ad59bbd666571f81ab66300d8231b8f2120
       </list>
     </option>
   </component>
@@ -250,9 +295,13 @@
     <option name="width" value="1792" />
     <option name="height" value="1029" />
   </component>
+<<<<<<< HEAD
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
+=======
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+>>>>>>> da305ad59bbd666571f81ab66300d8231b8f2120
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <hideEmptyPackages ProjectPane="true" />
@@ -270,25 +319,41 @@
             <path>
               <item name="springcloud_demo" type="b2602c69:ProjectViewProjectNode" />
               <item name="springcloud_demo" type="462c0819:PsiDirectoryNode" />
+<<<<<<< HEAD
               <item name="springcloud-config-server-3344" type="462c0819:PsiDirectoryNode" />
+=======
+              <item name="springcloud-consumer-hystrix-dashboard" type="462c0819:PsiDirectoryNode" />
+>>>>>>> da305ad59bbd666571f81ab66300d8231b8f2120
             </path>
             <path>
               <item name="springcloud_demo" type="b2602c69:ProjectViewProjectNode" />
               <item name="springcloud_demo" type="462c0819:PsiDirectoryNode" />
+<<<<<<< HEAD
               <item name="springcloud-config-server-3344" type="462c0819:PsiDirectoryNode" />
+=======
+              <item name="springcloud-consumer-hystrix-dashboard" type="462c0819:PsiDirectoryNode" />
+>>>>>>> da305ad59bbd666571f81ab66300d8231b8f2120
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="springcloud_demo" type="b2602c69:ProjectViewProjectNode" />
               <item name="springcloud_demo" type="462c0819:PsiDirectoryNode" />
+<<<<<<< HEAD
               <item name="springcloud-config-server-3344" type="462c0819:PsiDirectoryNode" />
+=======
+              <item name="springcloud-consumer-hystrix-dashboard" type="462c0819:PsiDirectoryNode" />
+>>>>>>> da305ad59bbd666571f81ab66300d8231b8f2120
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="springcloud_demo" type="b2602c69:ProjectViewProjectNode" />
               <item name="springcloud_demo" type="462c0819:PsiDirectoryNode" />
+<<<<<<< HEAD
               <item name="springcloud-config-server-3344" type="462c0819:PsiDirectoryNode" />
+=======
+              <item name="springcloud-consumer-hystrix-dashboard" type="462c0819:PsiDirectoryNode" />
+>>>>>>> da305ad59bbd666571f81ab66300d8231b8f2120
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -296,7 +361,11 @@
             <path>
               <item name="springcloud_demo" type="b2602c69:ProjectViewProjectNode" />
               <item name="springcloud_demo" type="462c0819:PsiDirectoryNode" />
+<<<<<<< HEAD
               <item name="springcloud-config-server-3344" type="462c0819:PsiDirectoryNode" />
+=======
+              <item name="springcloud-consumer-hystrix-dashboard" type="462c0819:PsiDirectoryNode" />
+>>>>>>> da305ad59bbd666571f81ab66300d8231b8f2120
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -305,7 +374,11 @@
             <path>
               <item name="springcloud_demo" type="b2602c69:ProjectViewProjectNode" />
               <item name="springcloud_demo" type="462c0819:PsiDirectoryNode" />
+<<<<<<< HEAD
               <item name="springcloud-config-server-3344" type="462c0819:PsiDirectoryNode" />
+=======
+              <item name="springcloud-consumer-hystrix-dashboard" type="462c0819:PsiDirectoryNode" />
+>>>>>>> da305ad59bbd666571f81ab66300d8231b8f2120
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
@@ -577,29 +650,48 @@
       </list>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="RunManager" selected="Spring Boot.Config_Server_3344">
     <configuration name="Config_Server_3344" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="springcloud-config-server-3344" />
+=======
+  <component name="RunManager" selected="Spring Boot.ZuulApplication_9527">
+    <configuration name="DeptProviderHystrix_8031" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="springcloud-provider-dept-hystrix-8031" />
+>>>>>>> da305ad59bbd666571f81ab66300d8231b8f2120
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="cn.geekhall.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+<<<<<<< HEAD
       <option name="SPRING_BOOT_MAIN_CLASS" value="cn.geekhall.Config_Server_3344" />
+=======
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.geekhall.DeptProviderHystrix_8031" />
+>>>>>>> da305ad59bbd666571f81ab66300d8231b8f2120
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
     <configuration name="DeptProviderHystrix_8031" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="springcloud-provider-dept-hystrix-8031" />
+=======
+    <configuration name="DeptProvider_8031" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="springcloud-provider-dept-8031" />
+>>>>>>> da305ad59bbd666571f81ab66300d8231b8f2120
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="cn.geekhall.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+<<<<<<< HEAD
       <option name="SPRING_BOOT_MAIN_CLASS" value="cn.geekhall.DeptProviderHystrix_8031" />
+=======
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.geekhall.DeptProvider_8031" />
+>>>>>>> da305ad59bbd666571f81ab66300d8231b8f2120
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -645,11 +737,19 @@
     </configuration>
     <recent_temporary>
       <list>
+<<<<<<< HEAD
         <item itemvalue="Spring Boot.Config_Server_3344" />
         <item itemvalue="Spring Boot.EurekaServer_7001" />
         <item itemvalue="Spring Boot.ZuulApplication_9527" />
         <item itemvalue="Spring Boot.DeptProviderHystrix_8031" />
         <item itemvalue="Spring Boot.EurekaServer_7002" />
+=======
+        <item itemvalue="Spring Boot.ZuulApplication_9527" />
+        <item itemvalue="Spring Boot.DeptProviderHystrix_8031" />
+        <item itemvalue="Spring Boot.EurekaServer_7002" />
+        <item itemvalue="Spring Boot.EurekaServer_7001" />
+        <item itemvalue="Spring Boot.DeptProvider_8031" />
+>>>>>>> da305ad59bbd666571f81ab66300d8231b8f2120
       </list>
     </recent_temporary>
   </component>
@@ -666,12 +766,17 @@
       <workItem from="1628570488371" duration="15115000" />
       <workItem from="1628743303645" duration="12497000" />
       <workItem from="1628862503359" duration="1071000" />
+<<<<<<< HEAD
       <workItem from="1628864730183" duration="7796000" />
       <workItem from="1628989563269" duration="4257000" />
+=======
+      <workItem from="1628864730183" duration="6618000" />
+>>>>>>> da305ad59bbd666571f81ab66300d8231b8f2120
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="40736000" />
   </component>
   <component name="ToolWindowManager">
@@ -679,6 +784,14 @@
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.7299035" visible="true" weight="0.26114285" />
+=======
+    <option name="totallyTimeSpent" value="35301000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="25" width="1792" height="1029" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.7299035" visible="true" weight="0.2582857" />
+>>>>>>> da305ad59bbd666571f81ab66300d8231b8f2120
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -722,6 +835,37 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+<<<<<<< HEAD
+=======
+    <entry file="file://$PROJECT_DIR$/springcloud-provider-dept-8031/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="14" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud-provider-dept-8032/src/main/java/cn/geekhall/service/DeptServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud-provider-dept-8032/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/netflix/ribbon/ribbon-loadbalancer/2.3.0/ribbon-loadbalancer-2.3.0.jar!/com/netflix/loadbalancer/RandomRule.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="780">
+          <caret line="62" column="5" selection-start-line="62" selection-start-column="5" selection-end-line="62" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+>>>>>>> da305ad59bbd666571f81ab66300d8231b8f2120
     <entry file="file://$PROJECT_DIR$/springcloud-provider-dept-8033/src/main/java/cn/geekhall/DeptProvider_8033.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -1037,16 +1181,24 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/springcloud-zuul-9527/src/main/java/cn/geekhall/ZuulApplication_9527.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="20" column="23" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
+=======
+    <entry file="file://$PROJECT_DIR$/springcloud-eureka-7001/src/main/java/cn/geekhall/EurekaServer_7001.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+>>>>>>> da305ad59bbd666571f81ab66300d8231b8f2120
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/springcloud-zuul-9527/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="435">
@@ -1072,6 +1224,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="18" selection-start-line="18" selection-end-line="18" />
+=======
+    <entry file="file://$PROJECT_DIR$/springcloud-eureka-7002/src/main/java/cn/geekhall/EurekaServer_7002.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+>>>>>>> da305ad59bbd666571f81ab66300d8231b8f2120
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#421#422#0" expanded="true" />
@@ -1080,6 +1238,7 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/springcloud-eureka-7001/src/main/java/cn/geekhall/EurekaServer_7001.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -1116,6 +1275,38 @@
             <element signature="e#205#206#0" expanded="true" />
             <element signature="e#274#275#0" expanded="true" />
           </folding>
+=======
+    <entry file="file://$PROJECT_DIR$/springcloud-provider-dept-hystrix-8031/src/main/java/cn/geekhall/DeptProviderHystrix_8031.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="25" column="4" selection-start-line="25" selection-start-column="4" selection-end-line="31" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud-zuul-9527/src/main/java/cn/geekhall/ZuulApplication_9527.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="23" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#441#442#0" expanded="true" />
+            <element signature="e#512#513#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud-zuul-9527/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="48" selection-start-line="29" selection-start-column="23" selection-end-line="29" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud-zuul-9527/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="49" column="56" selection-start-line="49" selection-start-column="56" selection-end-line="49" selection-end-column="56" />
+>>>>>>> da305ad59bbd666571f81ab66300d8231b8f2120
         </state>
       </provider>
     </entry>
